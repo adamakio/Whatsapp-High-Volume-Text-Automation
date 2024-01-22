@@ -1,0 +1,62 @@
+Date: 16/7/2022
+Time: 12:48
+Group ID: 34663577786
+Message: Testing the english executable, alex1
+--------------------
+Date: 16/7/2022
+Time: 12:48
+Group ID: 34663577786
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/english_executable/dist/test_image.jpg
+Caption: Need a million after tax and then we talking
+--------------------
+Date: 16/7/2022
+Time: 12:48
+Group ID: 34663577786
+Message: If this works I'll upload them and send you the drive link
+--------------------
+Date: 16/7/2022
+Time: 12:48
+Group ID: 34663577786
+Message: End of message
+--------------------
+Date: 16/7/2022
+Time: 12:49
+Group ID: 16476176315
+Message: Testing the english executable, alex2
+--------------------
+Date: 16/7/2022
+Time: 12:49
+Group ID: 16476176315
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/english_executable/dist/test_image.jpg
+Caption: Need a million after tax and then we talking
+--------------------
+Date: 16/7/2022
+Time: 12:49
+Group ID: 16476176315
+Message: If this works I'll upload them and send you the drive link
+--------------------
+Date: 16/7/2022
+Time: 12:49
+Group ID: 16476176315
+Message: End of message
+--------------------
+Date: 16/7/2022
+Time: 12:51
+Group ID: 34663577786
+Message: El bot fonccionada en ingles y en espanol. Ahora lo envio para google drive y trabajo sobre la licensia de simplebot
+--------------------
+Date: 16/7/2022
+Time: 12:51
+Group ID: 34663577786
+Message: this///is///fun///lol
+--------------------
+Date: 16/7/2022
+Time: 12:51
+Group ID: 16476176315
+Message: El bot fonccionada en ingles y en espanol. Ahora lo envio para google drive y trabajo sobre la licensia de simplebot
+--------------------
+Date: 16/7/2022
+Time: 12:52
+Group ID: 16476176315
+Message: this///is///fun///lol
+--------------------

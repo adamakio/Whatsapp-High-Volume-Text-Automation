@@ -1,0 +1,180 @@
+Date: 16/7/2022
+Time: 12:35
+Group ID: 34663577786
+Message: Hablas conmigo pero con el bot between us. Bro only text me in spanish I can learn this!
+--------------------
+Date: 16/7/2022
+Time: 12:35
+Group ID: 34663577786
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: Lol why does the bot wanna learn spanish.
+--------------------
+Date: 16/7/2022
+Time: 12:35
+Group ID: 34663577786
+Message: Idk what I'm saying alex1. I'm just tesing the executable because I was doing it from VS code this entire time.
+--------------------
+Date: 16/7/2022
+Time: 12:36
+Group ID: 16476176315
+Message: Hablas conmigo pero con el bot between us. Bro only text me in spanish I can learn this!
+--------------------
+Date: 16/7/2022
+Time: 12:36
+Group ID: 16476176315
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: Lol why does the bot wanna learn spanish.
+--------------------
+Date: 16/7/2022
+Time: 12:36
+Group ID: 16476176315
+Message: Idk what I'm saying alex2. I'm just tesing the executable because I was doing it from VS code this entire time.
+--------------------
+Date: 16/7/2022
+Time: 12:39
+Group ID: 34663577786
+Message: Sorry. I have 2 chrome sessions it got the wrong one./// Let's try this again
+--------------------
+Date: 16/7/2022
+Time: 12:39
+Group ID: 34663577786
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/spanish_executable/dist/test_image.jpg
+Caption: Image^
+--------------------
+Date: 16/7/2022
+Time: 12:39
+Group ID: 34663577786
+Message: Text with your name alex1
+--------------------
+Date: 16/7/2022
+Time: 12:39
+Group ID: 34663577786
+Message: You're talking to me but I'm only answering through the bot
+--------------------
+Date: 16/7/2022
+Time: 12:40
+Group ID: 16476176315
+Message: Sorry. I have 2 chrome sessions it got the wrong one./// Let's try this again
+--------------------
+Date: 16/7/2022
+Time: 12:40
+Group ID: 16476176315
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/spanish_executable/dist/test_image.jpg
+Caption: Image^
+--------------------
+Date: 16/7/2022
+Time: 12:40
+Group ID: 16476176315
+Message: Text with your name alex2
+--------------------
+Date: 16/7/2022
+Time: 12:40
+Group ID: 16476176315
+Message: You're talking to me but I'm only answering through the bot
+--------------------
+Date: 16/7/2022
+Time: 12:42
+Group ID: 34663577786
+Message: Hey alex1, I'm testing the spanish executable
+--------------------
+Date: 16/7/2022
+Time: 12:42
+Group ID: 34663577786
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/spanish_executable/dist/test_image.jpg
+Caption: Send this image bot!
+--------------------
+Date: 16/7/2022
+Time: 12:42
+Group ID: 34663577786
+Message: Thank you!
+--------------------
+Date: 16/7/2022
+Time: 12:43
+Group ID: 16476176315
+Message: Hey alex2, I'm testing the spanish executable
+--------------------
+Date: 16/7/2022
+Time: 12:43
+Group ID: 16476176315
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/spanish_executable/dist/test_image.jpg
+Caption: Send this image bot!
+--------------------
+Date: 16/7/2022
+Time: 12:43
+Group ID: 16476176315
+Message: Thank you!
+--------------------
+Date: 16/7/2022
+Time: 13:24
+Group ID: 34663577786
+Message: Hi alex1, this is a test message.
+--------------------
+Date: 16/7/2022
+Time: 13:25
+Group ID: 16476176315
+Message: Hi alex2, this is a test message.
+--------------------
+Date: 16/7/2022
+Time: 13:27
+Group ID: 34663577786
+Message: Test
+--------------------
+Date: 16/7/2022
+Time: 13:27
+Group ID: 34663577786
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/spanish_executable/dist/test_image.jpg
+Caption: this is the caption, alex1
+--------------------
+Date: 16/7/2022
+Time: 13:27
+Group ID: 34663577786
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/spanish_executable/dist/test_image.jpg
+Caption: 
+--------------------
+Date: 16/7/2022
+Time: 13:27
+Group ID: 16476176315
+Message: Test
+--------------------
+Date: 16/7/2022
+Time: 13:27
+Group ID: 16476176315
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/spanish_executable/dist/test_image.jpg
+Caption: this is the caption, alex2
+--------------------
+Date: 16/7/2022
+Time: 13:27
+Group ID: 16476176315
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/spanish_executable/dist/test_image.jpg
+Caption: 
+--------------------
+Date: 16/7/2022
+Time: 13:29
+Group ID: 34663577786
+Message: hey
+--------------------
+Date: 16/7/2022
+Time: 13:29
+Group ID: 34663577786
+Message: hey2
+--------------------
+Date: 16/7/2022
+Time: 13:29
+Group ID: 34663577786
+Message: hey, alex1
+--------------------
+Date: 16/7/2022
+Time: 13:30
+Group ID: 16476176315
+Message: hey
+--------------------
+Date: 16/7/2022
+Time: 13:30
+Group ID: 16476176315
+Message: hey2
+--------------------
+Date: 16/7/2022
+Time: 13:30
+Group ID: 16476176315
+Message: hey, alex2
+--------------------

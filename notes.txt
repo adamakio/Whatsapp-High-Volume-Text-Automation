@@ -1,0 +1,7 @@
+Command to make english executable:
+
+pyinstaller --clean -y -F -n="sapBroBot" --add-data="files/send.png;files" --paths="C:\Users\zouha\miniconda3\envs\pywhatbot\lib\site-packages\cv2\__init__.py" --distpath="./english_executable/dist" --workpath="./english_executable/build" --specpath="./english_executable" user_interface.py
+
+Command to make spanish executable:
+
+pyinstaller --clean -y -F -n="sapBroBot" --add-data="files/send.png;files" --paths="C:\Users\zouha\miniconda3\envs\pywhatbot\lib\site-packages\cv2\__init__.py" --distpath="./spanish_executable/dist" --workpath="./spanish_executable/build" --specpath="./spanish_executable" user_interface.py

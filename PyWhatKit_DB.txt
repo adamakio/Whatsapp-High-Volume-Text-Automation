@@ -1,0 +1,184 @@
+Date: 16/7/2022
+Time: 11:35
+Group ID: 34663577786
+Message: Hey alex1, I'm testing out the name feature.///Also///The Paragraph///Feature///Cuz///Why///Not?
+--------------------
+Date: 16/7/2022
+Time: 11:35
+Group ID: 16476176315
+Message: Hey alex2, I'm testing out the name feature.///Also///The Paragraph///Feature///Cuz///Why///Not?
+--------------------
+Date: 16/7/2022
+Time: 11:44
+Group ID: 34663577786
+Message: Hey alex1, I'm testing out the name feature.///Y el featuro de parrafo///No lo se como dice mi hermano.
+--------------------
+Date: 16/7/2022
+Time: 11:45
+Group ID: 16476176315
+Message: Hey alex2, I'm testing out the name feature.///Y el featuro de parrafo///No lo se como dice mi hermano.
+--------------------
+Date: 16/7/2022
+Time: 11:51
+Group ID: 34663577786
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: Hey alex1, I'm testing media sending with your name (alex1) in the caption. Here is your name at the end of the message for edge case testing alex1
+--------------------
+Date: 16/7/2022
+Time: 11:52
+Group ID: 16476176315
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: Hey alex2, I'm testing media sending with your name (alex2) in the caption. Here is your name at the end of the message for edge case testing alex2
+--------------------
+Date: 16/7/2022
+Time: 11:55
+Group ID: 34663577786
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: Testing media sending right now with name in caption: alex1
+--------------------
+Date: 16/7/2022
+Time: 11:56
+Group ID: 16476176315
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: Testing media sending right now with name in caption: alex2
+--------------------
+Date: 16/7/2022
+Time: 11:58
+Group ID: 34663577786
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: Hey alex1, your name is alex1 in my CSV file.///I downloaded this image so you don't have to look at contour plots anymore.///Disfruta!
+--------------------
+Date: 16/7/2022
+Time: 11:58
+Group ID: 16476176315
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: Hey alex2, your name is alex2 in my CSV file.///I downloaded this image so you don't have to look at contour plots anymore.///Disfruta!
+--------------------
+Date: 16/7/2022
+Time: 12:0
+Group ID: 34663577786
+Message: Testing multipart message. Sorry for blowing up your phone alex1.
+--------------------
+Date: 16/7/2022
+Time: 12:1
+Group ID: 34663577786
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: The next image will have no caption.
+--------------------
+Date: 16/7/2022
+Time: 12:1
+Group ID: 34663577786
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: 
+--------------------
+Date: 16/7/2022
+Time: 12:1
+Group ID: 34663577786
+Message: Ok end of message.
+--------------------
+Date: 16/7/2022
+Time: 12:1
+Group ID: 34663577786
+Message: Gracias
+--------------------
+Date: 16/7/2022
+Time: 12:1
+Group ID: 16476176315
+Message: Testing multipart message. Sorry for blowing up your phone alex2.
+--------------------
+Date: 16/7/2022
+Time: 12:1
+Group ID: 16476176315
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: The next image will have no caption.
+--------------------
+Date: 16/7/2022
+Time: 12:1
+Group ID: 16476176315
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: 
+--------------------
+Date: 16/7/2022
+Time: 12:2
+Group ID: 16476176315
+Message: Ok end of message.
+--------------------
+Date: 16/7/2022
+Time: 12:2
+Group ID: 16476176315
+Message: Gracias
+--------------------
+Date: 16/7/2022
+Time: 12:10
+Group ID: 34663577786
+Message: It skipped the message after the image with no caption. I need to figure out why.
+--------------------
+Date: 16/7/2022
+Time: 12:10
+Group ID: 34663577786
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: 
+--------------------
+Date: 16/7/2022
+Time: 12:10
+Group ID: 34663577786
+Message: Please don't skip this message.
+--------------------
+Date: 16/7/2022
+Time: 12:10
+Group ID: 34663577786
+Message: There should be a message saying: 'Please don't skip this message'. Hopefully it worked alex1
+--------------------
+Date: 16/7/2022
+Time: 12:11
+Group ID: 16476176315
+Message: It skipped the message after the image with no caption. I need to figure out why.
+--------------------
+Date: 16/7/2022
+Time: 12:11
+Group ID: 16476176315
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: 
+--------------------
+Date: 16/7/2022
+Time: 12:11
+Group ID: 16476176315
+Message: Please don't skip this message.
+--------------------
+Date: 16/7/2022
+Time: 12:11
+Group ID: 16476176315
+Message: There should be a message saying: 'Please don't skip this message'. Hopefully it worked alex2
+--------------------
+Date: 16/7/2022
+Time: 12:16
+Group ID: 34663577786
+Message: Cool, I just made a minimum delay between messages and it fixed it.
+--------------------
+Date: 16/7/2022
+Time: 12:16
+Group ID: 34663577786
+Message: ahora testo el applicacion en espanol para saber si fonccionar o no
+--------------------
+Date: 16/7/2022
+Time: 12:17
+Group ID: 34663577786
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: Yo tambien mi siente como eso, pero es la vida mi hermano alex1
+--------------------
+Date: 16/7/2022
+Time: 12:17
+Group ID: 16476176315
+Message: Cool, I just made a minimum delay between messages and it fixed it.
+--------------------
+Date: 16/7/2022
+Time: 12:17
+Group ID: 16476176315
+Message: ahora testo el applicacion en espanol para saber si fonccionar o no
+--------------------
+Date: 16/7/2022
+Time: 12:17
+Group ID: 16476176315
+Image: C:/Users/zouha/OneDrive/Desktop/Bots/whatsapp/sapBroBotClean/test_image.jpg
+Caption: Yo tambien mi siente como eso, pero es la vida mi hermano alex2
+--------------------
