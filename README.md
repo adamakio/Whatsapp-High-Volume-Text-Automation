@@ -54,5 +54,7 @@ This repository contains the source code and executable files for an automation 
 
 ## Note
 This tool is intended for efficient communication and respects the privacy and guidelines of WhatsApp usage. Please use this tool responsibly.
----
+
+___
+
 Thank you for exploring the WhatsApp Contact List Automation Tool. We hope it streamlines your communication process effectively.
